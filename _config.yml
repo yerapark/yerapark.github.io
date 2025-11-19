@@ -104,7 +104,7 @@ defaults:
   - scope:
       path: ""
     values:
-      avatar: "/assets/img/avatar.png"
+      avatar: "assets/img/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
